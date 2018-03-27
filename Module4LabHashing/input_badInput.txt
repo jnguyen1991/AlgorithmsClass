@@ -1,0 +1,15 @@
+605.421 Foundations of Algorithms 		            Project 1
+
+Minimal required input:
+
+12501
+84763
+22599
+02698
+a
+55555
+72501
+99999
+33975
+62501
+42501
